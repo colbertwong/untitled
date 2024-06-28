@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="axis-1.4.1-20190224.175507-327">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/axis-1.4.1-20190224.175507-327.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/axis-1.4.1-20190311.005330-328.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/axis-bin-1_4/axis-1_4/lib/axis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

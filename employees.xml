@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="1">
+        <name>John Doe</name>
+        <age>35</age>
+        <department>Engineering</department>
+        <projects>
+            <project>Project A</project>
+            <project>Project B</project>
+        </projects>
+    </employee>
+    <employee id="2">
+        <name>Jane Smith</name>
+        <age>28</age>
+        <department>Sales</department>
+        <projects>
+            <project>Project C</project>
+        </projects>
+    </employee>
+</employees>
